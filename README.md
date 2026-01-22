@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 style="border-bottom: 1px solid, padding-bottom: 4px, color: #fff, text-align: center"> Hello, 👋 I am Ebenezer Umahi.<h1/>
 
-<!--
-**Coder-Eben/Coder-Eben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working with HTML, TailwindCSS, Javascript, Django
+- 🌱 I’m currently learning ReactJS and Python Programming.
+- 👯 I’m looking to collaborate on Open-source Projects.
+- 🤔 I’m looking for help with Interrnship and Collaboration/work opportunities.
+- 💬 Ask me about Front-End Website Development, Back-end Web development, Medicine, and Healthcare.
+- 📫 How to reach me: drbennychudi@gmail.com
+- 😄 I am to become proficient in Machine Learning and to help in Integrting AI to Medicine and Healthcare.
+- ⚡ Fun fact: Gosh! I love coding, Reading Booksssss (particularly on Science, Med, History, and AI), writing, and making new friends.
 
-Here are some ideas to get you started:
+<h1 style="border-bottom: 1px solid, padding-bottom: 4px, color: #fff, text-align: center">Some more details About Me and My Interests<h1/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+name: Ebenezer UMAHI <br>
+located_in: Lagos, Nigeria <br>
+current job: Full Stack Developer <br>
+education: <br>
+  [ <br>
+  "Self-Taught Developer and Programmer", <br>
+  "Bachelors in Medicine and Surgery", <br>
+  ] <br>
+  
+fields_of_interests: <br>
+[ <br>
+  "Web Development", <br>
+  "Python Programming", <br>
+  "Machine Learning", <br>
+  "Neural Networks", <br>
+  "Science", <br>
+  "Medicine and HealthCare", <br>
+] <br>
+
+technical_background: <br>
+[ <br>
+  "Best Male Particicipant - Edubridge Academy Bootcamp", <br>
+  "Intern Full-stack Development", <br>
+  "Intern Python Programming", <br>
+  2026 Goals: ["Create 10+ Projects with HTML, TailwindCSS, ReactJS and learn at      least 5 new Technologies." <br>
+] <br>
+
+Nice to meet you!
