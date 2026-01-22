@@ -1,5 +1,12 @@
-<h1 style="border-bottom: 1px solid, padding-bottom: 4px, color: #fff, text-align: center"> Hello, 👋 I am Ebenezer Umahi.<h1/>
-  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1 style="border-bottom: 1px solid, padding-bottom: 4px, color: #fff, text-align: center"> Hello, 👋 I am Ebenezer Umahi.</h1>
+  <p>
 - 🔭 I’m currently working with HTML, TailwindCSS, Javascript, Django <br>
 - 🌱 I’m currently learning ReactJS and Python Programming. <br>
 - 👯 I’m looking to collaborate on Open-source Projects. <br>
@@ -9,7 +16,7 @@
 - 😄 I am to become proficient in Machine Learning and to help in Integrting AI to Medicine and Healthcare. <br>
 - ⚡ Fun fact: Gosh! I love coding, Reading Booksssss (particularly on Science, Med, History, and AI), writing, and making new friends. <br>
 
-<h1 style="border-bottom: 1px solid, padding-bottom: 4px, color: #fff, text-align: center">Some more details About Me and My Interests<h1/>
+<h1 style="border-bottom: 1px solid, padding-bottom: 4px, color: #fff, text-align: center">Some more details About Me and My Interests</h1>
 
 name: Ebenezer UMAHI <br>
 located_in: Lagos, Nigeria <br>
@@ -39,3 +46,6 @@ technical_background: <br>
 ] <br>
 
 Nice to meet you!
+</p>
+</body>
+</html>
