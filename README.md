@@ -1,13 +1,13 @@
 <h1 style="border-bottom: 1px solid, padding-bottom: 4px, color: #fff, text-align: center"> Hello, 👋 I am Ebenezer Umahi.<h1/>
-
-- 🔭 I’m currently working with HTML, TailwindCSS, Javascript, Django
-- 🌱 I’m currently learning ReactJS and Python Programming.
-- 👯 I’m looking to collaborate on Open-source Projects.
-- 🤔 I’m looking for help with Interrnship and Collaboration/work opportunities.
-- 💬 Ask me about Front-End Website Development, Back-end Web development, Medicine, and Healthcare.
-- 📫 How to reach me: drbennychudi@gmail.com
-- 😄 I am to become proficient in Machine Learning and to help in Integrting AI to Medicine and Healthcare.
-- ⚡ Fun fact: Gosh! I love coding, Reading Booksssss (particularly on Science, Med, History, and AI), writing, and making new friends.
+  
+- 🔭 I’m currently working with HTML, TailwindCSS, Javascript, Django <br>
+- 🌱 I’m currently learning ReactJS and Python Programming. <br>
+- 👯 I’m looking to collaborate on Open-source Projects. <br>
+- 🤔 I’m looking for help with Interrnship and Collaboration/work opportunities. <br>
+- 💬 Ask me about Front-End Website Development, Back-end Web development, Medicine, and Healthcare. <br>
+- 📫 How to reach me: drbennychudi@gmail.com <br>
+- 😄 I am to become proficient in Machine Learning and to help in Integrting AI to Medicine and Healthcare. <br>
+- ⚡ Fun fact: Gosh! I love coding, Reading Booksssss (particularly on Science, Med, History, and AI), writing, and making new friends. <br>
 
 <h1 style="border-bottom: 1px solid, padding-bottom: 4px, color: #fff, text-align: center">Some more details About Me and My Interests<h1/>
 
