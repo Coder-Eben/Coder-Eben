@@ -15,7 +15,7 @@
 - 🤔 I’m looking for help with Interrnship and Collaboration/work opportunities. <br>
 - 💬 Ask me about Front-End Website Development, Back-end Web development, Medicine, and Healthcare. <br>
 - 📫 How to reach me: <a href="mailto:someone@example.com">drbennychudi@gmail.com</a> <br>
-- 😄 I am to become proficient in Machine Learning and to help in Integrting AI to Medicine and Healthcare. <br>
+- 😄 I aim to become proficient in Python Programming, in Machine Learning and to help in Integrating AI to Medicine and Healthcare. <br>
 - ⚡ Fun fact: Gosh! I love coding, Reading Booksssss (particularly on Science, Med, History, and AI), writing, and making new friends. <br>
 
 <h1 style="border-bottom: 1px solid, padding-bottom: 4px, color: #fff, text-align: center">Some more details About Me and My Interests</h1>
@@ -41,7 +41,7 @@ fields_of_interests: <br>
 
 technical_background: <br>
 [ <br>
-  "Best Male Particicipant - Edubridge Academy Bootcamp", <br>
+  "Best Male Particicipant - Edubridge Digital Bootcamp", <br>
   "Intern Full-stack Development", <br>
   "Intern Python Programming", <br>
   2026 Goals: ["Create 10+ Projects with HTML, TailwindCSS, ReactJS and learn at      least 5 new Technologies." <br>
